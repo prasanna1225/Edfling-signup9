@@ -1,0 +1,102 @@
+body{
+  background-color: #215D4F;
+  font-family:Poppins, sans-serif;
+  font-weight: 400;
+}
+.body-box{
+width:76rem;
+height: 35rem;
+background: #FFFFFF;
+border-radius: 10px;
+margin-top: 30px;
+
+
+}
+.img-style{
+  width: 300px;
+  height: 300px;
+  margin-top:7rem;
+  border-radius: 10px;
+  margin-left: 100px;
+
+}
+.main-heading{
+  color: #215D4F;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.first-button{
+  background-color: #215D4F;
+ 
+}
+.right-part{
+  text-align: center;
+  padding:30px
+}
+.form{
+  width: 300px;
+height: 40px;
+}
+.my-link {
+  color: #215D4F;
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  text-decoration: none;
+}
+.social-img{
+  width: 20px;
+  height: 20px;
+}
+
+.login-button{
+  padding: 5px 130px;
+  background-color: #215D4F;
+}
+
+.check-box{
+  font-size: 12px;
+  text-align: center;
+  width: 300px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 992px) {
+ 
+  .card {
+    width: 60rem;
+    height: 36rem;
+  }
+  
+}
+
+@media screen and (max-width: 768px) {
+ 
+  .card {
+    width: 44rem;
+    height: 61rem;
+  }
+  
+}
+
+@media screen and (max-width: 576px) {
+  
+  .card {
+    width: 27rem;
+    height: 61rem;
+  }
+  .img-style{
+    margin-left: 20px;
+  }
+}
+
+
+
+
+
